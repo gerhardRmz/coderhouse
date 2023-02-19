@@ -1,0 +1,21 @@
+$FontPref: Lucinda Console, monospace;
+$PreferredColor: red;
+$SecondaryColor: #26519A;
+$FontOneSize: 18px;
+$FontWeight: bold;
+$ThirdColor: #E57F17;
+
+Body{
+	font-family: $FontPref;
+	font-size: $FontOneSize;
+	color: $PreferredColor;
+}
+
+p{
+	font-weight: $FontWeight;
+	color: $SecondaryColor;
+}
+
+#special {
+	color: $ThirdColor;
+}
