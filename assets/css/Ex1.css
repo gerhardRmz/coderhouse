@@ -1,11 +1,12 @@
 Body {
   font-family: Lucinda Console, monospace;
   font-size: 18px;
-  color: red; }
+  color: rgb(14, 11, 11); }
 
 p {
-  font-weight: bold;
+  font-weight: normal;
+  width: 50%;
   color: #26519A; }
 
 #special {
-  color: #E57F17; }
+  color: #26519A; }
